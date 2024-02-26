@@ -1,5 +1,7 @@
 # Machine-Learning
-Diabetes prediction using various Classification Algorithm. There are and I achieve these results
+Diabetes prediction using various Classification Algorithm.
+Here are the results of diabetes prediction using various classification algorithms:
+
 Decision Tree Classifier: 91%
 Naive Bayes Classifier: 74%
 Support Vector Classifier: 76%
